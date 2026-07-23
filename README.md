@@ -1,7 +1,7 @@
 ## Moin, ich bin Andre 👋
 
 - In einer Weiterbildung zum Fullstack Entwickler bei der Developer Akademie
-- Aktuell lerne ich HTML, CSS und JavaScript mit VSCode und das Arbeiten mit GitHub
+- Momentan lerne ich HTML, CSS und JavaScript mit VSCode und das Arbeiten mit GitHub
 
 Aktuelle Skill Level der Weiterbildung: 
 - HTML - Level 3
