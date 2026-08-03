@@ -17,4 +17,5 @@ Bisherige Übungs Projekte:
 - Fotogram: https://andrestrauch.developerakademie.net/fotogram/index.html
 - Notizblock: https://andrestrauch.developerakademie.net/notizblock_with_objects/
 - Book Store: https://andrestrauch.developerakademie.net/book_store/index.html
-- Bestell App (in Arbeit): https://andrestrauch.developerakademie.net/bestell_app/index.html
+- Bestell App: https://andrestrauch.developerakademie.net/bestell_app/index.html
+- Pokedex (in Arbeit): https://andrestrauch.developerakademie.net/pokedex/index.html
