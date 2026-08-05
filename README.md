@@ -9,7 +9,7 @@
 - JS   - Level 1
 
 ### Bisherige Übungs Projekte:
-- [Visitenkarte](https://andrestrauch.developerakademie.net/visitenkarte_responsive/index.html)
+- <a href="https://andrestrauch.developerakademie.net/visitenkarte_responsive/index.html" target="_blank">Visitenkarte</a>
 - [MeinPC Webseite](https://andrestrauch.developerakademie.net/mein_pc_responsive/index.html)
 - [Sakura Ramen](https://andrestrauch.developerakademie.net/sakura_ramen_responsive/index.html)
 - [Reise Blog Gruppenarbeit](https://andrestrauch.developerakademie.net/travel_blog/index.html)
