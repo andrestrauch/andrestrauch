@@ -9,13 +9,13 @@ Aktuelle Skill Level der Weiterbildung:
 - JS   - Level 1
 
 Bisherige Übungs Projekte:
-- [Visitenkarte] (https://andrestrauch.developerakademie.net/visitenkarte_responsive/index.html)
-- [MeinPC Webseite] (https://andrestrauch.developerakademie.net/mein_pc_responsive/index.html)
-- [Sakura Ramen] (https://andrestrauch.developerakademie.net/sakura_ramen_responsive/index.html)
-- [Reise Blog Gruppenarbeit] (https://andrestrauch.developerakademie.net/travel_blog/index.html)
-- [Aim Trainer] (https://andrestrauch.developerakademie.net/aim_trainer/index.html)
-- [Fotogram] (https://andrestrauch.developerakademie.net/fotogram/index.html)
-- [Notizblock] (https://andrestrauch.developerakademie.net/notizblock_with_objects/index.html)
-- [Book Store] (https://andrestrauch.developerakademie.net/book_store/index.html)
-- [Bestell App] (https://andrestrauch.developerakademie.net/bestell_app/index.html)
-- [Pokedex (in Arbeit)] (https://andrestrauch.developerakademie.net/pokedex/index.html)
+- [Visitenkarte](https://andrestrauch.developerakademie.net/visitenkarte_responsive/index.html)
+- [MeinPC Webseite](https://andrestrauch.developerakademie.net/mein_pc_responsive/index.html)
+- [Sakura Ramen](https://andrestrauch.developerakademie.net/sakura_ramen_responsive/index.html)
+- [Reise Blog Gruppenarbeit](https://andrestrauch.developerakademie.net/travel_blog/index.html)
+- [Aim Trainer](https://andrestrauch.developerakademie.net/aim_trainer/index.html)
+- [Fotogram](https://andrestrauch.developerakademie.net/fotogram/index.html)
+- [Notizblock](https://andrestrauch.developerakademie.net/notizblock_with_objects/index.html)
+- [Book Store](https://andrestrauch.developerakademie.net/book_store/index.html)
+- [Bestell App](https://andrestrauch.developerakademie.net/bestell_app/index.html)
+- [Pokedex (in Arbeit)](https://andrestrauch.developerakademie.net/pokedex/index.html)
