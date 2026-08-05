@@ -1,14 +1,14 @@
-## Moin, ich bin Andre 👋
+# Moin, ich bin Andre 👋
 
 - In einer Weiterbildung zum Fullstack Entwickler bei der [Developer Akademie](https://developerakademie.com/)
 - Momentan lerne ich HTML, CSS und JavaScript mit VSCode und das Arbeiten mit GitHub
 
-Aktuelle Skill Level der Weiterbildung: 
+## Aktuelle Skill Level der Weiterbildung: 
 - HTML - Level 3
 - CSS  - Level 3
 - JS   - Level 1
 
-Bisherige Übungs Projekte:
+### Bisherige Übungs Projekte:
 - [Visitenkarte](https://andrestrauch.developerakademie.net/visitenkarte_responsive/index.html)
 - [MeinPC Webseite](https://andrestrauch.developerakademie.net/mein_pc_responsive/index.html)
 - [Sakura Ramen](https://andrestrauch.developerakademie.net/sakura_ramen_responsive/index.html)
