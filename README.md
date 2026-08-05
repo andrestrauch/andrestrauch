@@ -1,6 +1,6 @@
 # Moin, ich bin Andre 👋
 
-- In einer Weiterbildung zum Fullstack Entwickler bei der <a href="https://developerakademie.com" style="color: white; text-decoration: none;" target="_blank">Developer Akademie</a>
+- In einer Weiterbildung zum Fullstack Entwickler bei der <a href="https://developerakademie.com" target="blank">Developer Akademie</a>
 - Momentan lerne ich HTML, CSS und JavaScript mit VSCode und das Arbeiten mit GitHub
 
 ## Aktuelle Skill Level der Weiterbildung: 
